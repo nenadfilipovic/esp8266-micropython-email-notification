@@ -73,7 +73,8 @@ Upload main folder and main.py file to your esp8266 board.
 
 ## Built With
 
-* [MicroPython](http://micropython.org/download) - Language used
+* [MicroPython](http://micropython.org/download)
+* [PHP](https://www.php.net/)
 
 ## Authors
 
