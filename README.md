@@ -4,7 +4,7 @@ Building basic email notification system for esp8266 boards.
 
 ## Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```
 git clone https://github.com/nenadfilipovic/esp8266-micropython-email-notification
@@ -38,7 +38,7 @@ WINDOWS OS - esptool.py --port COM4 erase_flash
 
 After you connect board to PC go to 'Device Manager' and under 'Ports' find at which port is your board connected.
 
-If there is no device connected you need to install serial drivers from
+If there is no device connected you need to install serial drivers from:
 
 https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip.
 
@@ -82,7 +82,7 @@ Upload main folder and main.py file to your esp8266 board.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
