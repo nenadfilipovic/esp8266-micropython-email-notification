@@ -38,9 +38,8 @@ WINDOWS OS - esptool.py --port COM4 erase_flash
 
 After you connect board to PC go to 'Device Manager' and under 'Ports' find at which port is your board connected.
 
-If there is no device connected you need to install serial drivers from:
-
-https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip.
+If there is no device connected you need to install serial drivers from
+[CH340G Driver](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip).
 
 Then you will be able to deploy firmware to esp8266 board.
 
